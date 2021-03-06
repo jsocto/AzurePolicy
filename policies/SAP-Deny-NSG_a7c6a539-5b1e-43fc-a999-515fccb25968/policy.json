@@ -3,7 +3,7 @@
   "displayName": "SAP-Deny-NSG",
   "policyType": "Custom",
   "mode": "All",
-  "description": "Deny NSG with 22/3389 ports",
+  "description": "Deny MTC NSG with 22/3389 ports",
   "metadata": {
    "category": "EXP-CAF",
    "createdBy": "4ece9b72-126a-4f48-be16-c8bf0676d73e",
